@@ -6,7 +6,7 @@
 
 ## 🎯 Highlights & Neuerungen in Version 8.0
 
-Version 8.0 führt den innovativen **gespiegelten 3D-Zylinderturm „Robustes Portfolio“** ein, der die Allokation aus den Zeitphasen in einer vertikal geschichteten Struktur visualisiert:
+Version 8.0 führt den **gespiegelten 3D-Zylinderturm „Robustes Portfolio“** ein, der die Allokation aus den Zeitphasen in einer vertikal geschichteten Struktur visualisiert:
 
 ---
 
